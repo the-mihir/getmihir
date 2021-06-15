@@ -1,0 +1,2 @@
+[21-May-2020 15:24:12 America/Chicago] PHP Warning:  mail(): headers parameter must be string or array in /home/getmihir/public_html/mail.php on line 10
+[21-May-2020 15:27:27 America/Chicago] PHP Warning:  mail(): headers parameter must be string or array in /home/getmihir/public_html/mail.php on line 10
